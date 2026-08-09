@@ -1,0 +1,23 @@
+# Data and model artifacts — too large / regenerable, don't belong in git
+data/*.csv
+models/*.pkl
+models/*.onnx
+models/*.h5
+models/*.joblib
+
+# Logs and generated metrics
+logs/*.log
+logs/*.json
+
+# Secrets — never commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keep folder placeholders
+!models/.gitkeep
+!logs/.gitkeep

@@ -1,0 +1,20 @@
+# Core environment
+jupyter==1.1.1
+notebook==7.4.4
+ipykernel==6.29.5
+
+# JSON validation
+jsonschema==4.25.0
+
+# Deep learning / GenAI
+torch==2.7.1
+transformers==4.53.2
+
+# Data handling
+numpy==2.3.1
+pandas==2.3.0
+
+# Utilities
+rich==14.0.0
+python-dotenv==1.1.1
+requests==2.32.4

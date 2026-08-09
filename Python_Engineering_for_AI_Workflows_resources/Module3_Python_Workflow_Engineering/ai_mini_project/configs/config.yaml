@@ -1,0 +1,15 @@
+# Non-secret settings for this project.
+# Safe to commit to git — never put API keys or passwords here (use .env instead).
+
+data_path: data/train.csv
+
+data:
+  target_column: label
+
+model:
+  type: random_forest
+  n_estimators: 200
+
+training:
+  test_size: 0.2
+  random_state: 42
