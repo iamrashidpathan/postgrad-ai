@@ -28,3 +28,24 @@ This repository contains coursework, practical notebooks, and resources for a po
 6. **Basic Machine Learning I**
    - Supervised learning fundamentals
    - Model training, evaluation, and interpretation
+
+7. **Foundations of Sequence Modeling: Efficient Training Techniques, CNNs, and Word Embeddings**
+   - Sequence model fundamentals and embeddings
+   - CNNs and efficient training strategies
+   - Word embeddings and their applications
+
+8. **RNN, Transformer Architecture and Attention**
+   - Recurrent Neural Networks (RNNs) for sequences
+   - Attention mechanisms and the Transformer architecture
+
+9. **The Transformer Architecture and Decoding**
+   - Deep dive into the Transformer model
+   - Decoding strategies and sequence generation
+
+10. **Models and APIs: OpenAI, Anthropic, HuggingFace, and Structured Outputs**
+    - Working with leading LLM APIs
+    - Structured outputs and production use-cases
+
+11. **Prompting: Zero-shot, Few-shot, Role Prompting, and Optimization**
+    - Prompt engineering techniques and strategies
+    - Few-shot, role-based, and optimized prompting
