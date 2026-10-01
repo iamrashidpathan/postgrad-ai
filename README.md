@@ -49,3 +49,16 @@ This repository contains coursework, practical notebooks, and resources for a po
 11. **Prompting: Zero-shot, Few-shot, Role Prompting, and Optimization**
     - Prompt engineering techniques and strategies
     - Few-shot, role-based, and optimized prompting
+
+12. **Prompt Security, Performance Evaluation, and Budgeting**
+    - LLM evaluation methods and safety considerations
+    - Prompt security risks and mitigation strategies
+    - Cost and token budgeting for LLM applications
+
+13. **Advanced Prompt Engineering: Reasoning, Acting, and Steering Large Language Models through Prompts**
+    - Advanced prompting techniques for LLM reasoning
+    - Steering model behavior and agentic acting through prompts
+
+## Assignments
+
+- **Module 1 Assignment** — notebooks and grading rubric (`Module 1 Assingment/`)
