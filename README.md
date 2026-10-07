@@ -2,63 +2,80 @@
 
 This repository contains coursework, practical notebooks, and resources for a postgraduate programme covering the foundations and engineering of Artificial Intelligence, Machine Learning, and Deep Learning systems.
 
-## Modules
+## Module 0: AI Foundations and Engineering
 
 1. **AI Engineering Environment Setup**
-   - Setting up the development environment for AI projects
-   - Tools, libraries, and workflows for reproducible AI engineering
+   - Jupyter Notebook fundamentals: cells, execution, and markdown
+   - Development environment setup for reproducible AI projects
+   - Tools, libraries, and workflows for AI engineering
 
 2. **Python Engineering for AI Workflows**
-   - Python programming patterns for AI pipelines
+   - Python programming fundamentals: variables, control flow, data structures
+   - Functions, modularity, and building maintainable AI pipelines
    - Workflow engineering and project structure
 
 3. **Mathematical Foundations for AI Systems**
-   - Linear algebra, calculus, and probability fundamentals
-   - Mathematical concepts underpinning machine learning algorithms
+   - Permutations and combinations for AI problem solving
+   - Probability foundations and Bayes' theorem
+   - Distributions, sampling, and statistical reasoning
 
 4. **Data Engineering for AI Applications**
    - Data collection, cleaning, and preparation
    - Building data pipelines for AI systems
 
-5. **Introduction to Artificial Intelligence, Machine Learning and Deep Learning**
+5. **Basic Machine Learning I**
+   - Data preprocessing with the Titanic dataset
+   - Linear regression with the Auto MPG dataset
+   - Supervised learning fundamentals, model training, and evaluation
+
+## Module 1: Core AI, ML, Deep Learning, and LLMs
+
+1. **Introduction to Artificial Intelligence, Machine Learning and Deep Learning**
    - Core AI/ML concepts and terminology
-   - Classification, regression, and neural network basics
-   - Hands-on tutorials with scikit-learn
+   - Classification with logistic regression
+   - K-Nearest Neighbours and decision tree classifiers
+   - Hands-on tutorial: breast cancer prediction with scikit-learn
 
-6. **Basic Machine Learning I**
-   - Supervised learning fundamentals
-   - Model training, evaluation, and interpretation
+2. **Foundations of Sequence Modeling: Efficient Training Techniques, CNNs, and Word Embeddings**
+   - PyTorch fundamentals: scalars, vectors, matrices, and tensors
+   - Tensor shapes and common shape pitfalls
+   - CNNs, efficient training strategies, and word embeddings
 
-7. **Foundations of Sequence Modeling: Efficient Training Techniques, CNNs, and Word Embeddings**
-   - Sequence model fundamentals and embeddings
-   - CNNs and efficient training strategies
-   - Word embeddings and their applications
-
-8. **RNN, Transformer Architecture and Attention**
-   - Recurrent Neural Networks (RNNs) for sequences
+3. **RNN, Transformer Architecture and Attention**
+   - Recurrent Neural Networks for sequences
    - Attention mechanisms and the Transformer architecture
+   - CNN from scratch for image understanding
 
-9. **The Transformer Architecture and Decoding**
+4. **The Transformer Architecture and Decoding**
    - Deep dive into the Transformer model
    - Decoding strategies and sequence generation
 
-10. **Models and APIs: OpenAI, Anthropic, HuggingFace, and Structured Outputs**
-    - Working with leading LLM APIs
-    - Structured outputs and production use-cases
+5. **Models and APIs: OpenAI, Anthropic, HuggingFace, and Structured Outputs**
+   - Working with leading LLM APIs
+   - Prompting and sampling algorithms
+   - Structured outputs and production use-cases
 
-11. **Prompting: Zero-shot, Few-shot, Role Prompting, and Optimization**
-    - Prompt engineering techniques and strategies
-    - Few-shot, role-based, and optimized prompting
+6. **Prompting: Zero-shot, Few-shot, Role Prompting, and Optimization**
+   - Prompt engineering techniques and strategies
+   - Zero-shot, few-shot, and role-based prompting
+   - Text classification, summarization, and question answering with LLMs
 
-12. **Prompt Security, Performance Evaluation, and Budgeting**
-    - LLM evaluation methods and safety considerations
-    - Prompt security risks and mitigation strategies
-    - Cost and token budgeting for LLM applications
+7. **Prompt Security, Performance Evaluation, and Budgeting**
+   - LLM evaluation methods and safety considerations
+   - Statistical and semantic metrics: Precision/Recall, ROUGE, BLEU, METEOR, BERTScore
+   - Prompt security risks, mitigation strategies, and cost budgeting
 
-13. **Advanced Prompt Engineering: Reasoning, Acting, and Steering Large Language Models through Prompts**
-    - Advanced prompting techniques for LLM reasoning
-    - Steering model behavior and agentic acting through prompts
+### Assignments
 
-## Assignments
+- **Module 1 Assignment** — Prompting, structured outputs, and evaluation exercises (`Module 1 Assingment/`)
 
-- **Module 1 Assignment** — notebooks and grading rubric (`Module 1 Assingment/`)
+## Module 2: Advanced Prompt Engineering
+
+1. **Advanced Prompt Engineering: Reasoning, Acting, and Steering Large Language Models through Prompts**
+   - Prompting LLMs with transformers and chat templates
+   - Zero-shot and advanced prompting strategies
+   - Steering model behavior and reasoning through prompts
+
+2. **Advanced Prompting, Prompt Optimization, Prompt Security, and Verbalized Sampling**
+   - Prompt compression and optimization techniques
+   - Verbalized sampling and advanced prompt-efficiency methods
