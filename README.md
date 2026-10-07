@@ -67,7 +67,7 @@ This repository contains coursework, practical notebooks, and resources for a po
 
 ### Assignments
 
-- **Module 1 Assignment** — Prompting, structured outputs, and evaluation exercises (`Module 1 Assingment/`)
+- **Module 1 Assignment** — Prompting, structured outputs, and evaluation exercises (`Module_1_Core_AI_ML_and_LLMs/Module 1 Assingment/`)
 
 ## Module 2: Advanced Prompt Engineering
 
