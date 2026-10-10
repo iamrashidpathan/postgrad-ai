@@ -69,7 +69,7 @@ This repository contains coursework, practical notebooks, and resources for a po
 
 - **Module 1 Assignment** — Prompting, structured outputs, and evaluation exercises (`Module_1_Core_AI_ML_and_LLMs/Module 1 Assingment/`)
 
-## Module 2: Advanced Prompt Engineering
+## Module 2: Advanced Prompt Engineering and RAG
 
 1. **Advanced Prompt Engineering: Reasoning, Acting, and Steering Large Language Models through Prompts**
    - Prompting LLMs with transformers and chat templates
