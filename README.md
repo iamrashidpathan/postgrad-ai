@@ -79,3 +79,8 @@ This repository contains coursework, practical notebooks, and resources for a po
 2. **Advanced Prompting, Prompt Optimization, Prompt Security, and Verbalized Sampling**
    - Prompt compression and optimization techniques
    - Verbalized sampling and advanced prompt-efficiency methods
+
+3. **Retrieval Augmented Generation (Sparse Retrieval)**
+   - Sparse retrieval-based RAG flow
+   - Indexing, retrieval, augmentation, and generation
+   - Live data fetching and comparing outputs with and without RAG
