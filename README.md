@@ -65,6 +65,15 @@ This repository contains coursework, practical notebooks, and resources for a po
    - Statistical and semantic metrics: Precision/Recall, ROUGE, BLEU, METEOR, BERTScore
    - Prompt security risks, mitigation strategies, and cost budgeting
 
+### Medium Articles
+
+A four-part revision series covering Module 1 (`Module_1_Core_AI_ML_and_LLMs/Medium_Articles/`), with diagrams and Medium-ready HTML:
+
+1. ML and DL foundations
+2. Tensors, CNNs, training and embeddings
+3. RNNs, attention, Transformers and decoding
+4. Working with LLMs: APIs, prompting, evaluation and security
+
 ### Assignments
 
 - **Module 1 Assignment** — Prompting, structured outputs, and evaluation exercises (`Module_1_Core_AI_ML_and_LLMs/Module 1 Assingment/`)
@@ -84,3 +93,7 @@ This repository contains coursework, practical notebooks, and resources for a po
    - Sparse retrieval-based RAG flow
    - Indexing, retrieval, augmentation, and generation
    - Live data fetching and comparing outputs with and without RAG
+
+4. **RAG: Dense Retrieval and Semantic Search**
+   - Dense retrieval and semantic search for RAG
+   - Hands-on RAG notebooks, session lecture and pre-read
